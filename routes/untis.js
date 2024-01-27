@@ -9,7 +9,7 @@ async function runUntis(req, res, next) {
     var dates = []
     getDay()
 
-    var x = 0
+    var jsonFileNmb = 0
     for (const date of dates) {
         const { WebUntis } = require('webuntis')
         const fs = require('fs')
@@ -19,7 +19,7 @@ async function runUntis(req, res, next) {
             const timetable = await untis.getOwnTimetableFor(date)
             const timetableJSON = JSON.stringify(timetable)
             if (timetableJSON) {
-                fs.writeFileSync(`./views/properties/properties${x}.json`, timetableJSON)
+                fs.writeFileSync(`./views/properties/properties${jsonFileNmb}.json`, timetableJSON)
             }
             console.log(x)
             x++
