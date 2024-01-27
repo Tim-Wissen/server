@@ -18,11 +18,9 @@ async function runUntis(req, res, next) {
             await untis.login()
             const timetable = await untis.getOwnTimetableFor(date)
             const timetableJSON = JSON.stringify(timetable)
-            if (timetableJSON) {
-                fs.writeFileSync(`./views/properties/properties${jsonFileNmb}.json`, timetableJSON)
-            }
-            console.log(x)
-            x++
+            fs.writeFileSync(`./views/properties/properties${jsonFileNmb}.json`, timetableJSON)
+            console.log(jsonFileNmb)
+            jsonFileNmb++
         } catch (error) {
             console.log(error)
         }
