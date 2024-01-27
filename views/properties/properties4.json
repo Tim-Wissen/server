@@ -1,0 +1,1022 @@
+[
+    {
+        "id": 612127,
+        "date": 20240201,
+        "startTime": 1525,
+        "endTime": 1610,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 75,
+                "name": "BK",
+                "longname": "Bildende Kunst"
+            }
+        ],
+        "ro": [
+            {
+                "id": 20,
+                "name": "B16",
+                "longname": "BK-Raum"
+            }
+        ],
+        "lsnumber": 49800,
+        "sg": "BK_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 612130,
+        "date": 20240201,
+        "startTime": 1610,
+        "endTime": 1655,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 75,
+                "name": "BK",
+                "longname": "Bildende Kunst"
+            }
+        ],
+        "ro": [
+            {
+                "id": 20,
+                "name": "B16",
+                "longname": "BK-Raum"
+            }
+        ],
+        "lsnumber": 49800,
+        "sg": "BK_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 623203,
+        "date": 20240201,
+        "startTime": 920,
+        "endTime": 1005,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 79,
+                "name": "D",
+                "longname": "Deutsch"
+            }
+        ],
+        "ro": [
+            {
+                "id": 9,
+                "name": "A17",
+                "longname": "Religion und Geschichte"
+            }
+        ],
+        "lsnumber": 101400,
+        "sg": "D_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 623206,
+        "date": 20240201,
+        "startTime": 1010,
+        "endTime": 1055,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 79,
+                "name": "D",
+                "longname": "Deutsch"
+            }
+        ],
+        "ro": [
+            {
+                "id": 9,
+                "name": "A17",
+                "longname": "Religion und Geschichte"
+            }
+        ],
+        "lsnumber": 101400,
+        "sg": "D_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 642067,
+        "date": 20240201,
+        "startTime": 730,
+        "endTime": 815,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 90,
+                "name": "F",
+                "longname": "Französisch"
+            }
+        ],
+        "ro": [
+            {
+                "id": 11,
+                "name": "A21",
+                "longname": "Französisch"
+            }
+        ],
+        "lsnumber": 49600,
+        "sg": "F_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 642070,
+        "date": 20240201,
+        "startTime": 815,
+        "endTime": 900,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 90,
+                "name": "F",
+                "longname": "Französisch"
+            }
+        ],
+        "ro": [
+            {
+                "id": 11,
+                "name": "A21",
+                "longname": "Französisch"
+            }
+        ],
+        "lsnumber": 49600,
+        "sg": "F_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 657682,
+        "date": 20240201,
+        "startTime": 730,
+        "endTime": 815,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 103,
+                "name": "L",
+                "longname": "Latein"
+            }
+        ],
+        "ro": [
+            {
+                "id": 12,
+                "name": "A22",
+                "longname": "Latein"
+            }
+        ],
+        "lsnumber": 103000,
+        "sg": "L_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 657685,
+        "date": 20240201,
+        "startTime": 815,
+        "endTime": 900,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 103,
+                "name": "L",
+                "longname": "Latein"
+            }
+        ],
+        "ro": [
+            {
+                "id": 12,
+                "name": "A22",
+                "longname": "Latein"
+            }
+        ],
+        "lsnumber": 103000,
+        "sg": "L_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 694111,
+        "date": 20240201,
+        "startTime": 1345,
+        "endTime": 1430,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 176,
+                "name": "bk1",
+                "longname": "bk1"
+            }
+        ],
+        "ro": [
+            {
+                "id": 17,
+                "name": "B06",
+                "longname": "Werkraum"
+            }
+        ],
+        "lsnumber": 49900,
+        "sg": "bk1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 694114,
+        "date": 20240201,
+        "startTime": 1430,
+        "endTime": 1515,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 176,
+                "name": "bk1",
+                "longname": "bk1"
+            }
+        ],
+        "ro": [
+            {
+                "id": 17,
+                "name": "B06",
+                "longname": "Werkraum"
+            }
+        ],
+        "lsnumber": 49900,
+        "sg": "bk1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 694993,
+        "date": 20240201,
+        "startTime": 1345,
+        "endTime": 1430,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 178,
+                "name": "mu",
+                "longname": "mu"
+            }
+        ],
+        "ro": [
+            {
+                "id": 3,
+                "name": "A04",
+                "longname": "Musikraum"
+            }
+        ],
+        "lsnumber": 50100,
+        "sg": "mu_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 694996,
+        "date": 20240201,
+        "startTime": 1430,
+        "endTime": 1515,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 178,
+                "name": "mu",
+                "longname": "mu"
+            }
+        ],
+        "ro": [
+            {
+                "id": 3,
+                "name": "A04",
+                "longname": "Musikraum"
+            }
+        ],
+        "lsnumber": 50100,
+        "sg": "mu_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 696523,
+        "date": 20240201,
+        "startTime": 1525,
+        "endTime": 1610,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 181,
+                "name": "geo1",
+                "longname": "geo1"
+            }
+        ],
+        "ro": [
+            {
+                "id": 33,
+                "name": "C22",
+                "longname": "NwT-Raum"
+            }
+        ],
+        "lsnumber": 101600,
+        "sg": "geo1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 696526,
+        "date": 20240201,
+        "startTime": 1610,
+        "endTime": 1655,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 181,
+                "name": "geo1",
+                "longname": "geo1"
+            }
+        ],
+        "ro": [
+            {
+                "id": 33,
+                "name": "C22",
+                "longname": "NwT-Raum"
+            }
+        ],
+        "lsnumber": 101600,
+        "sg": "geo1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 697279,
+        "date": 20240201,
+        "startTime": 1345,
+        "endTime": 1430,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 185,
+                "name": "gk2",
+                "longname": "gk2"
+            }
+        ],
+        "ro": [
+            {
+                "id": 27,
+                "name": "C12",
+                "longname": "Erdkunde Gemeinschaftskunde Wirtschaft"
+            }
+        ],
+        "lsnumber": 51300,
+        "sg": "gk2_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 697282,
+        "date": 20240201,
+        "startTime": 1430,
+        "endTime": 1515,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 185,
+                "name": "gk2",
+                "longname": "gk2"
+            }
+        ],
+        "ro": [
+            {
+                "id": 27,
+                "name": "C12",
+                "longname": "Erdkunde Gemeinschaftskunde Wirtschaft"
+            }
+        ],
+        "lsnumber": 51300,
+        "sg": "gk2_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 699877,
+        "date": 20240201,
+        "startTime": 1105,
+        "endTime": 1150,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 191,
+                "name": "M1",
+                "longname": "M1"
+            }
+        ],
+        "ro": [
+            {
+                "id": 1,
+                "name": "A01",
+                "longname": "Mathematik"
+            }
+        ],
+        "lsnumber": 51800,
+        "sg": "M1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 699880,
+        "date": 20240201,
+        "startTime": 1155,
+        "endTime": 1240,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 191,
+                "name": "M1",
+                "longname": "M1"
+            }
+        ],
+        "ro": [
+            {
+                "id": 1,
+                "name": "A01",
+                "longname": "Mathematik"
+            }
+        ],
+        "lsnumber": 51800,
+        "sg": "M1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 702391,
+        "date": 20240201,
+        "startTime": 730,
+        "endTime": 815,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 196,
+                "name": "PH",
+                "longname": "PH"
+            }
+        ],
+        "ro": [
+            {
+                "id": 28,
+                "name": "C13",
+                "longname": "Physikraum"
+            }
+        ],
+        "lsnumber": 52100,
+        "sg": "PH_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 702394,
+        "date": 20240201,
+        "startTime": 815,
+        "endTime": 900,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 196,
+                "name": "PH",
+                "longname": "PH"
+            }
+        ],
+        "ro": [
+            {
+                "id": 28,
+                "name": "C13",
+                "longname": "Physikraum"
+            }
+        ],
+        "lsnumber": 52100,
+        "sg": "PH_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 705121,
+        "date": 20240201,
+        "startTime": 1105,
+        "endTime": 1150,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 203,
+                "name": "bio",
+                "longname": "bio"
+            }
+        ],
+        "ro": [
+            {
+                "id": 33,
+                "name": "C22",
+                "longname": "NwT-Raum"
+            }
+        ],
+        "lsnumber": 102400,
+        "sg": "bio_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 705124,
+        "date": 20240201,
+        "startTime": 1155,
+        "endTime": 1240,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 203,
+                "name": "bio",
+                "longname": "bio"
+            }
+        ],
+        "ro": [
+            {
+                "id": 33,
+                "name": "C22",
+                "longname": "NwT-Raum"
+            }
+        ],
+        "lsnumber": 102400,
+        "sg": "bio_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 707536,
+        "date": 20240201,
+        "startTime": 920,
+        "endTime": 1005,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 217,
+                "name": "d1",
+                "longname": "Deutsch 3stündig"
+            }
+        ],
+        "ro": [
+            {
+                "id": 10,
+                "name": "A18",
+                "longname": "Religion und Geschichte"
+            }
+        ],
+        "lsnumber": 49000,
+        "sg": "d1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 707539,
+        "date": 20240201,
+        "startTime": 1010,
+        "endTime": 1055,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 217,
+                "name": "d1",
+                "longname": "Deutsch 3stündig"
+            }
+        ],
+        "ro": [
+            {
+                "id": 10,
+                "name": "A18",
+                "longname": "Religion und Geschichte"
+            }
+        ],
+        "lsnumber": 49000,
+        "sg": "d1_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 708184,
+        "date": 20240201,
+        "startTime": 920,
+        "endTime": 1005,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 218,
+                "name": "d2",
+                "longname": "Deutsch 3stündig"
+            }
+        ],
+        "ro": [
+            {
+                "id": 31,
+                "name": "C17",
+                "longname": "Religion und Geschichte"
+            }
+        ],
+        "lsnumber": 49100,
+        "sg": "d2_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 708187,
+        "date": 20240201,
+        "startTime": 1010,
+        "endTime": 1055,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 218,
+                "name": "d2",
+                "longname": "Deutsch 3stündig"
+            }
+        ],
+        "ro": [
+            {
+                "id": 31,
+                "name": "C17",
+                "longname": "Religion und Geschichte"
+            }
+        ],
+        "lsnumber": 49100,
+        "sg": "d2_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 709480,
+        "date": 20240201,
+        "startTime": 1525,
+        "endTime": 1610,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 241,
+                "name": "GEO",
+                "longname": "GEO"
+            }
+        ],
+        "ro": [
+            {
+                "id": 26,
+                "name": "C11",
+                "longname": "Erdkunde Gemeinschaftskunde Wirtschaft"
+            }
+        ],
+        "lsnumber": 75700,
+        "sg": "GEO_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 709483,
+        "date": 20240201,
+        "startTime": 1610,
+        "endTime": 1655,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 241,
+                "name": "GEO",
+                "longname": "GEO"
+            }
+        ],
+        "ro": [
+            {
+                "id": 26,
+                "name": "C11",
+                "longname": "Erdkunde Gemeinschaftskunde Wirtschaft"
+            }
+        ],
+        "lsnumber": 75700,
+        "sg": "GEO_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 712120,
+        "date": 20240201,
+        "startTime": 1105,
+        "endTime": 1150,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 262,
+                "name": "BIO",
+                "longname": "BIO"
+            }
+        ],
+        "ro": [
+            {
+                "id": 34,
+                "name": "C23",
+                "longname": "Biologieraum"
+            }
+        ],
+        "lsnumber": 102300,
+        "sg": "BIO_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 712123,
+        "date": 20240201,
+        "startTime": 1155,
+        "endTime": 1240,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 262,
+                "name": "BIO",
+                "longname": "BIO"
+            }
+        ],
+        "ro": [
+            {
+                "id": 34,
+                "name": "C23",
+                "longname": "Biologieraum"
+            }
+        ],
+        "lsnumber": 102300,
+        "sg": "BIO_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 715291,
+        "date": 20240201,
+        "startTime": 1105,
+        "endTime": 1150,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 326,
+                "name": "E2",
+                "longname": "E2"
+            }
+        ],
+        "ro": [
+            {
+                "id": 12,
+                "name": "A22",
+                "longname": "Latein"
+            }
+        ],
+        "lsnumber": 49300,
+        "sg": "E2_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 715294,
+        "date": 20240201,
+        "startTime": 1155,
+        "endTime": 1240,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 326,
+                "name": "E2",
+                "longname": "E2"
+            }
+        ],
+        "ro": [
+            {
+                "id": 12,
+                "name": "A22",
+                "longname": "Latein"
+            }
+        ],
+        "lsnumber": 49300,
+        "sg": "E2_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 716368,
+        "date": 20240201,
+        "startTime": 1525,
+        "endTime": 1610,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 331,
+                "name": "WI",
+                "longname": "WI"
+            }
+        ],
+        "ro": [
+            {
+                "id": 29,
+                "name": "C15",
+                "longname": "Physikraum"
+            }
+        ],
+        "lsnumber": 103200,
+        "sg": "WI_J1",
+        "activityType": "Unterricht"
+    },
+    {
+        "id": 716371,
+        "date": 20240201,
+        "startTime": 1610,
+        "endTime": 1655,
+        "kl": [
+            {
+                "id": 437,
+                "name": "J1",
+                "longname": "Klasse J1"
+            }
+        ],
+        "su": [
+            {
+                "id": 331,
+                "name": "WI",
+                "longname": "WI"
+            }
+        ],
+        "ro": [
+            {
+                "id": 29,
+                "name": "C15",
+                "longname": "Physikraum"
+            }
+        ],
+        "lsnumber": 103200,
+        "sg": "WI_J1",
+        "activityType": "Unterricht"
+    }
+]

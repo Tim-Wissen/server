@@ -6,49 +6,48 @@ router.get('/', runUntis, (req, res) => {
 })
 
 async function runUntis(req, res, next) {
-    try {
+    var dates = []
+    getDay()
+
+    var x = 0
+    for (const date of dates) {
         const { WebUntis } = require('webuntis')
         const fs = require('fs')
-
         const untis = new WebUntis('rosenstein-gymnasium', req.query.className, req.query.className, 'cissa.webuntis.com')
-
-        await untis.login()
-
-        const timetable = await untis.getOwnTimetableForToday()
-        const timetableJSON = JSON.stringify(timetable)
-
-        fs.writeFileSync('./views/properties.json', timetableJSON)
-
-        function getDay() {
-            const current = new Date()
-            var d = current.getDate() + 1
-            var m = current.getMonth() + 1
-            var y = current.getFullYear()
-            var target
-            var result
-            for (let count = 0; count <= 10; count++) {
-                target = new Date(`${y}-${m}-${d}`)
-
-                if (target == "Invalid Date") {
-                    d = 1
-                    m++
-                    target = new Date(`${y}-${m}-${d}`)
-                }
-
-                result = target
-                console.log(result)
-                console.log(d)
-
-                d++
+        try {
+            await untis.login()
+            const timetable = await untis.getOwnTimetableFor(date)
+            const timetableJSON = JSON.stringify(timetable)
+            if (timetableJSON) {
+                fs.writeFileSync(`./views/properties/properties${x}.json`, timetableJSON)
             }
+            console.log(x)
+            x++
+        } catch (error) {
+            console.log(error)
         }
-
-        getDay()
-        next()
-    } catch (error) {
-        console.log(error)
-        next()
     }
+
+    function getDay() {
+        const current = new Date()
+        var d = current.getDate() + 1
+        var m = current.getMonth() + 1
+        var y = current.getFullYear()
+        for (let count = 0; count < 5; count++) {
+            target = new Date(`${y}-${m}-${d}`)
+
+            if (target == "Invalid Date") {
+                d = 1
+                m++
+                target = new Date(`${y}-${m}-${d}`)
+            }
+
+            dates.push(target)
+            d++
+        }
+    }
+
+    next()
 }
 
 module.exports = router
