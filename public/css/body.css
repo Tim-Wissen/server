@@ -1,0 +1,63 @@
+.headbar {
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+
+    background-color: #191919;
+    color: #e7e8e1;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'MuseoModerno', cursive;
+    font-size: x-large;
+}
+
+.navbar {
+    position: fixed;
+
+    top: 50px;
+    left: 0;
+    right: 0;
+    height: 50px;
+
+    background-color: #e7e8e1;
+    color: #191919;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'MuseoModerno', cursive;
+    font-size: x-large;
+}
+
+.untis {
+    position: fixed;
+    height: 250px;
+    width: 250px;
+
+    background-color: #fe9900;
+    color: #191919;
+
+    border: 1px solid black;
+    border-radius: 50px;
+
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: MuseoModerno, cursive;
+}
+
+.untis img {
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
