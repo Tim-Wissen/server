@@ -18,8 +18,7 @@ async function runUntis(req, res, next) {
             await untis.login()
             const timetable = await untis.getOwnTimetableFor(date)
             const timetableJSON = JSON.stringify(timetable)
-            fs.writeFileSync(`./views/properties/properties${jsonFileNmb}.json`, timetableJSON)
-            console.log(jsonFileNmb)
+            fs.writeFileSync(`./views/properties/${date.getFullYear()}${("0" + (date.getMonth() + 1)).slice(-2)}${("0" + date.getDate()).slice(-2)}-${date.getDay()}.json`, timetableJSON)
             jsonFileNmb++
         } catch (error) {
             console.log(error)
@@ -28,15 +27,21 @@ async function runUntis(req, res, next) {
 
     function getDay() {
         const current = new Date()
-        var d = current.getDate() + 1
+        var d = current.getDate()
         var m = current.getMonth() + 1
         var y = current.getFullYear()
-        for (let count = 0; count < 5; count++) {
+
+        for (let count = 0; count < 8; count++) {
             target = new Date(`${y}-${m}-${d}`)
 
             if (target == "Invalid Date") {
+                if ((target.getMonth() + 1) == 12) {
+                    y++
+                }
+                else {
+                    m++
+                }
                 d = 1
-                m++
                 target = new Date(`${y}-${m}-${d}`)
             }
 
