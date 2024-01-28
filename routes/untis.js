@@ -22,6 +22,7 @@ async function runUntis(req, res, next) {
             jsonFileNmb++
         } catch (error) {
             console.log(error)
+            req.query.className = error
         }
     }
 
